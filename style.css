@@ -67,6 +67,8 @@ body {
   height: 85%;
   margin-top:15%;
   justify-content: center;
+  text-align: center;
+  align-items: center;
 }
 .h2 {
   text-align: center;
@@ -127,6 +129,9 @@ body {
   border: none;
   background: #888888;
   color: #ffffff;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
 #fin {
   color: #000000;
