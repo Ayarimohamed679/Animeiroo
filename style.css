@@ -59,6 +59,7 @@ body {
   margin-top: 418%;
   justify-content: center;
   align-items: center;
+  text-align: center;
   flex-direction: column;
 }
 #con {
@@ -124,18 +125,8 @@ body {
   height: 30px;
   border-radius: 10px;
   border: none;
-  background: #1b0f4a
+  background: #888888;
   color: #ffffff;
-}
-#btn3 {
-  margin-top: 20px;
-  width: 100px;
-  height: 30px;
-  border-radius: 20px;
-  border: none;
-  background: #1b0f4a
-  color: #ffffff;
-  
 }
 #fin {
   color: #000000;
