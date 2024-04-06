@@ -126,9 +126,8 @@ body {
   width: 100px;
   height: 30px;
   border-radius: 12px;
-  border: none;
-  background: #1d8f89;
-  color: #ffffff;
+  border: none; 
+  background: liner-gradient(to right, #1b0f4a, #000000);  color: #ffffff;
   justify-content: center;
   text-align: center;
   align-items: center;
